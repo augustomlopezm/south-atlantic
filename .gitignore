@@ -25,5 +25,9 @@
 *.txt
 *.json
 *.map
+*.bak
+*.log
+*.sql
+*.csv
 .env*
 .DS_Store
