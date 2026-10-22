@@ -10,6 +10,7 @@
 !/assets/
 !/.gitignore
 !/.nojekyll
+!/CNAME
 
 # Por si acaso, nunca, ni siquiera dentro de las carpetas permitidas
 *.pdf
